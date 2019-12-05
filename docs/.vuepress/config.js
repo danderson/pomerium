@@ -28,7 +28,7 @@ module.exports = {
       { text: "Enterprise", link: "/enterprise/" },
 
       {
-        text: "🚧Dev", // current tagged version
+        text: "v0.5.2", // current tagged version
         ariaLabel: "Version menu",
         items: [
           { text: "🚧Dev", link: "https://master.docs.pomerium.io/docs" },
